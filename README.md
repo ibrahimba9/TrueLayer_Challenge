@@ -30,8 +30,8 @@
 - Launch VS-Code
 - Open a new Terminal
 - Open TrueLayer_Challenge/movie_classifier folder
-- run the command : "docker build -t movie-classifier ."
-- run the command : "docker run --rm movie-classifier --title "example name" --description "example description"
+- run the command : docker build -t movie-classifier .
+- run the command : docker run --rm movie-classifier --title "example name" --description "example description"
 
 # How to run the automated tests:
 - Launch VS-Code
